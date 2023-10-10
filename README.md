@@ -1,5 +1,5 @@
 # toast_glass
-**Frosted glass effect(Aero) toast bubbles in Win10/11** <br>
+**Frosted glass effect(Win Aero effect) toast bubbles in Win10/11** <br>
 Function call：<br>  
 
     from toast_glass import input_func  
